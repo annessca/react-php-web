@@ -1,0 +1,43 @@
+.w3-main {
+    margin-left:300px;
+}
+
+.top-level-home-images {
+    width: 100%;
+}
+
+.pricing-section {
+    margin: 0 -16px
+}
+
+#about-me-section {
+    margin-bottom: 32px;
+}
+
+#mySidebar {
+    z-index: 3;
+    width: 300px;
+}
+
+#sidemenu-avatar {
+    width:45%;
+    padding-bottom: 16px;
+}
+
+#contact {
+    margin-left: 10px;;
+}
+
+.fa {
+    padding-top: 14px;
+}
+
+.icon-box {
+    padding-bottom: 14px;
+}
+
+#skillset1 { width: 95% }
+
+#skillset2 { width: 85% }
+
+#skillset3 { width: 80% }
